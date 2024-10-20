@@ -16,11 +16,9 @@
 
 #### 1. Go here --> [Jake](jakeforspiceify.webm)
 
-#### 3. After uploud, scroll down a bit and from the <span style="color: pink;">Output bitrate</span> choose <span style="color: pink;">1M</span>, then press <span style="color: lightgreen;">Convert to WebM!</span>
+#### 2. Copy link where it says "<span style="color: lightblue;">View raw</span>"
 
-#### 4. Once it finishes converting, <span style="color: orange;">RIGHT CLICK</span> on the video converted and click <span style="color: lightgreen;">Copy video address</span>.
-
-#### 5. Go back to Spotify, go to setting and scroll all the way down where you will find the Cat-Jam Settings and paste the link.
+#### 3. Go back to Spotify, go to setting and scroll all the way down where you will find the Cat-Jam Settings and paste the link.
 
 #### 6. Press <span style="color: yellow;">Save and Reload</span> and you should have Jake to vibe with!! 
 
