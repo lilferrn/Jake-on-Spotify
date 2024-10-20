@@ -24,7 +24,7 @@
 
 #### 5. Go back to Spotify, go to setting and scroll all the way down where you will find the Cat-Jam Settings and paste the link.
 
-#### 6. Press <span style="color: yellow;">Save and Reload</span> and you should have Jake to vibe with 🥳🥳🥳
+#### 6. Press <span style="color: yellow;">Save and Reload</span> and you should have Jake to vibe with!! 
 
 ##
 
