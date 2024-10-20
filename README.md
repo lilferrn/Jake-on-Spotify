@@ -6,11 +6,11 @@
 #### Make Jake appear next to your progress bar, jamming along with your music synchronized to the beat!
 
 ## Before Installing
-* #### 1. Install [Spicetify🔥](https://github.com/spicetify) <-- Link to tool and instructions
+#### 1. Install [Spicetify🔥](https://github.com/spicetify) <-- Link to tool and instructions
 
-* #### 2. Once installed, open Spotify and go to marketplace (Shopping cart icon on top left of Spotify)
+#### 2. Once installed, open Spotify and go to marketplace (Shopping cart icon on top left of Spotify)
 
-* #### 3. Look for <span style="color: pink;">Cat-Jam Synced by Blafking</span> and install extension
+#### 3. Look for <span style="color: pink;">Cat-Jam Synced by Blafking</span> and install extension
 
 ## Instructions for Jake (for Windows)
 
