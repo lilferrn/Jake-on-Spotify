@@ -14,7 +14,7 @@
 
 ## Instructions for Jake (for Windows)
 
-#### 1. Go here --> [Jake](../../../Downloads/jakeforspiceify.webm)
+#### 1. Go here --> [Jake](jakeforspiceify.webm)
 
 #### 3. After uploud, scroll down a bit and from the <span style="color: pink;">Output bitrate</span> choose <span style="color: pink;">1M</span>, then press <span style="color: lightgreen;">Convert to WebM!</span>
 
