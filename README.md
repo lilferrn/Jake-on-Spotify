@@ -3,7 +3,7 @@
 <p align="center">
     <img src="jakegif.gif" alt="ya boiiii" width="200" height="150">
 
-#### Make Jake appear next to your progress bar, jamming along with your music synchronized to the beat!
+#### Make Jake from Adventure Time appear next to your progress bar, jamming along with your music synchronized to the beat!
 
 ## Before Installing
 #### 1. Install [Spicetify🔥](https://github.com/spicetify) <-- Link to tool and instructions
