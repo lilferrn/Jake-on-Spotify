@@ -24,4 +24,4 @@
 
 ##
 
-##### <span style="color: red;">DISCLAIMER</span>: I haven't tried it on other systems but I like to think it is the same process other than installing Spicetify.
+##### <span style="color: red;">DISCLAIMER</span>: I haven't tried it on other operating systems but I like to think it is the same process other than installing Spicetify.
